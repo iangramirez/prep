@@ -1,2 +1,1 @@
-# prep
-prueba repositorio modulo 2
+prueba de creacion de un repositorio y clonarlo desde github
